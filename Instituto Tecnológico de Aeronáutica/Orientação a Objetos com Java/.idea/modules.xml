@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AntesDepois/AntesDepois.iml" filepath="$PROJECT_DIR$/AntesDepois/AntesDepois.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Banco/Banco.iml" filepath="$PROJECT_DIR$/Banco/Banco.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CadeiaConstrutores/CadeiaConstrutores.iml" filepath="$PROJECT_DIR$/CadeiaConstrutores/CadeiaConstrutores.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Carros/Carros.iml" filepath="$PROJECT_DIR$/Carros/Carros.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Compras/Compras.iml" filepath="$PROJECT_DIR$/Compras/Compras.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Correcao/Correcao.iml" filepath="$PROJECT_DIR$/Correcao/Correcao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Escola/Escola.iml" filepath="$PROJECT_DIR$/Escola/Escola.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EstaticaVsInstancia/EstaticaVsInstancia.iml" filepath="$PROJECT_DIR$/EstaticaVsInstancia/EstaticaVsInstancia.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExperienciaAcesso/ExperienciaAcesso.iml" filepath="$PROJECT_DIR$/ExperienciaAcesso/ExperienciaAcesso.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Orientação a Objetos com Java.iml" filepath="$PROJECT_DIR$/.idea/Orientação a Objetos com Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pontuacao/Pontuacao.iml" filepath="$PROJECT_DIR$/Pontuacao/Pontuacao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PrecoPizza/PrecoPizza.iml" filepath="$PROJECT_DIR$/PrecoPizza/PrecoPizza.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TiposProdutos/TiposProdutos.iml" filepath="$PROJECT_DIR$/TiposProdutos/TiposProdutos.iml" />
+    </modules>
+  </component>
+</project>
